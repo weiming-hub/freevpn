@@ -8,7 +8,7 @@
 
 （如果访问YouTube出现需要登录账号才能观看视频，也可以用此方法来解决）
 
-一般来说，需要原生ip才能正常访问这些受限制的网站，但原生ip的vps比较难找，且比较贵，因此我们可以借助Cloud­flare WARP来实现原生ip的功能。如果不想搭建vps，那么也可以考虑这个原生ip [V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。
+一般来说，需要原生ip才能正常访问这些受限制的网站，但原生ip的vps比较难找，且比较贵，因此我们可以借助Cloud­flare WARP来实现原生ip的功能。如果不想搭建vps，那么也可以考虑这个原生ip [V2free机场](https://xgogo.sbs/#/register?code=wxADDy87)。
 
 ***
 
