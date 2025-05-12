@@ -25,7 +25,6 @@
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#2%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%205.8MB/s%7C16%25%7COpenai
 hysteria2://nfsn666@ld-arm.nfsn666.gq:8888?insecure=1&fp=&sni=ld-arm.nfsn666.gq&obfs=&obfs-password=#2%7C%F0%9F%87%AC%F0%9F%87%A71%20%7C%20%205.1MB/s%7C62%25%7CYoutube%7COpe...
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.174.138.206:80?allowInsecure=0&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#2%2C14%7CRU_speednode_0032
-hysteria2://ad77e45c-0485-4357-9d64-1593aabc2c19@108.214.246.79:32321?insecure=1&alpn=h3&fp=&sni=&obfs=&obfs-password=#2%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%205.5MB/s%7CNetflix%7CDisney%7C...
 vless://4ee35122-2e2d-4013-a1ba-e2d333d191fc@91.107.180.49:443?sni=www.cdn77.com&fp=chrome&security=tls#2%7C%F0%9F%87%A9%F0%9F%87%AA2%20%7C%20%201.1MB/s%7COpenai
 vless://bc2a2e87-e34b-4126-91ce-e7bccdafc4d4@c.c.ccccccccccccccccccccccccccccccccccccccccccc.cc:443?allowInsecure=0&sni=us.4056860.xyz&alpn=h3%252Ch2%252Chttp%252F1.1&type=ws&host=us.4056860.xyz&path=/wsfp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B811%20%7C%20%202.5MB/s%7C40%25%7CDisney%7COpe...
 hysteria2://nfsn666@192.9.129.48:8888?insecure=1&sni=sj-arm.nfsn666.gq#2%7C%F0%9F%87%BA%F0%9F%87%B812%20%7C%20%201.2MB/s%7C62%25%7CDisney%7COpe...
@@ -186,6 +185,7 @@ hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?insecure=1&obfs=salamander&obfs-pas
 hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?insecure=1&obfs=salamander&obfs-password=bleepbloop#10%7C%40V2rayNG3%20%236
 hysteria2://AtTK3tiEA0@p1.punchline.ir:44929?insecure=1&obfs=salamander&obfs-password=bluhbluh#10%7C%40V2rayNG3%20%237
 hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.ru:8080?insecure=1&alpn=h3&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Bia__SiNAVM#10%7C%40%D8%A7%20%D8%A7
+hysteria2://NtN91N22r2@134.122.92.59:8180?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=hiddify2020@vpnyv0303#10%7Chysteria2
 hysteria2://c76f08e20fb6368b@150.241.77.182:11122?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=64da92df31fc63c1#10%7C%40Pashmam_Vpn%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 hysteria2://dongtaiwang.com@108.181.5.130:65232?insecure=1&sni=apple.com#10%7CMci-%40V2ray_Raha-4
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#10%7C%40V2rayNG3%20%239
@@ -197,10 +197,8 @@ hysteria2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&sni=www
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM=@hkkh11v1.xpmc.cc:52013#12%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo01a.kbservice.club:443?allowInsecure=0&sni=45.32.28.232#12%2C13%7C%E5%8F%B0%E6%B9%BE2%7C%40ripaojiedian
 trojan://bpb-trojan@35.201.203.106:443?allowInsecure=0&sni=skwygx.top&alpn=h3#12%2C13%7C%E5%8F%B0%E6%B9%BE3%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#12%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDNiMzViNDBhMjU=@103.140.136.242:20621#12%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://8e3DxOzEI3YXc3aZRAzRg3lRlcZYS7Kp93juOwOnR8qaxSByD0OyaFep8F0p3864SCyAC@43.207.112.226:443?allowInsecure=1&sni=terture.meijireform.com#12%2C13%7C%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#12%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://a5DnyYNIexIzS2Xg3YYlg9Ol0SgEpyCj5ZCSBanD88eOpwOC4aEzDyTjY0nxBDjzSaACSTqSE223C83@154.17.30.58:28332?allowInsecure=1&sni=phooey.starspace.link#12%2C13%7C%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@43.203.235.15:443#12%7C%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@43.203.199.63:443#12%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
@@ -235,4 +233,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDNiMzViNDBhMjU@103.140.136.242:20621?plugi
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505081193439-w4OKhrzhsF.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 
 ```
-更新时间 2025-05-12 06:10:00
+更新时间 2025-05-12 06:11:39
