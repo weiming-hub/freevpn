@@ -147,6 +147,7 @@ hysteria2://9e7a0efe-e7fd-42f2-9f66-092fa9285da7@jpvl.681687.xyz:10100?insecure=
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?insecure=1&obfs=salamander&obfs-password=bipbip#10%7C%40V2rayNG3%20%234
 hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?insecure=1&obfs=salamander&obfs-password=bleepbloop#10%7C%40V2rayNG3%20%235
 hysteria2://AtTK3tiEA0@p1.punchline.ir:44929?insecure=1&obfs=salamander&obfs-password=bluhbluh#10%7C%40V2rayNG3%20%236
+hysteria2://NtN91N22r2@134.122.92.59:8180?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=hiddify2020@vpnyv0303#10%7Chysteria2
 hysteria2://a20238f6-6f4b-4de8-84e5-23c0abc33b47@196.63.128.80:33456?insecure=1#10%7C%40VPNTV20%20%231
 hysteria2://b4dd408a-542d-4898-8d43-47dcad8255e8@146.56.102.200:34237?insecure=1&sni=anycast.us.kg#10%7C%40VPNTV20%20%232
 hysteria2://b72e0a66-c660-4a26-9acc-8f106cee0ab9@170.64.222.252:52111?insecure=1&sni=www.bing.com#10%7C%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
@@ -162,6 +163,7 @@ hysteria2://wol314webO%3B@v.outlee.com:2048?insecure=1&sni=v.outlee.com#10%7C%40
 hysteria2://v2meowmeowmeow@103.68.108.25:443?insecure=1&sni=www.bing.com#11%7CHysteria%20%F0%9F%87%AE%F0%9F%87%B3%20%40v2meowcf
 hysteria2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&sni=www.bing.com#11%7CHysteria%20%F0%9F%87%B8%F0%9F%87%AC%20%40v2meowcf%20%231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM=@hkkh11v1.xpmc.cc:52013#12%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo01a.kbservice.club:443?allowInsecure=0&sni=45.32.28.232#12%2C13%7C%E5%8F%B0%E6%B9%BE2%7C%40ripaojiedian
 trojan://bpb-trojan@35.201.203.106:443?allowInsecure=0&sni=skwygx.top&alpn=h3#12%2C13%7C%E5%8F%B0%E6%B9%BE3%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDNiMzViNDBhMjU=@103.140.136.242:20621#12%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://8e3DxOzEI3YXc3aZRAzRg3lRlcZYS7Kp93juOwOnR8qaxSByD0OyaFep8F0p3864SCyAC@43.207.112.226:443?allowInsecure=1&sni=terture.meijireform.com#12%2C13%7C%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
@@ -183,7 +185,6 @@ trojan://Aimer@219.76.13.177:443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&t
 trojan://Aimer@211.251.7.76:50000?allowInsecure=0&sni=epccj.ambercc.filegear-sg.me&type=ws&host=epccj.ambercc.filegear-sg.me&path=/?ed=2560#14%7CKR_speednode_0025
 trojan://0588@175.203.30.93:50000?allowInsecure=1&sni=888.uskm.dpdns.org&type=ws&host=888.uskm.dpdns.org&path=/?ed=2560#14%7CKR_speednode_0026
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@112.164.234.135:50000?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#14%7CKR_speednode_0027
-vless://be21e25f-5919-4e6b-b443-bfa45273de5d@218.38.33.77:11223?allowInsecure=0&sni=mikuyo.bpd67081tsq.ddns-ip.net&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net&path=/security=tls#14%7CKR_speednode_0028
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.174.138.206:80?allowInsecure=0&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#14%7CRU_speednode_0032
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@45.67.215.168:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560fp=random&security=tls#14%7CRU_speednode_0033
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@45.67.215.168:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/security=tls#14%7CRU_speednode_0034
@@ -198,4 +199,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDNiMzViNDBhMjU@103.140.136.242:20621?plugi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:52013?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Futvbnrzejpmt%3Bhost%3Dhkkh11v1.xpmc.cc%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 
 ```
-更新时间 2025-05-12 17:40:00
+更新时间 2025-05-12 17:41:51
