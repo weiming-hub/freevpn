@@ -25,6 +25,7 @@
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#2%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%205.8MB/s%7C16%25%7COpenai
 hysteria2://nfsn666@ld-arm.nfsn666.gq:8888?insecure=1&fp=&sni=ld-arm.nfsn666.gq&obfs=&obfs-password=#2%7C%F0%9F%87%AC%F0%9F%87%A71%20%7C%20%205.1MB/s%7C62%25%7CYoutube%7COpe...
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.174.138.206:80?allowInsecure=0&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#2%2C14%7CRU_speednode_0032
+hysteria2://ad77e45c-0485-4357-9d64-1593aabc2c19@108.214.246.79:32321?insecure=1&alpn=h3&fp=&sni=&obfs=&obfs-password=#2%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%205.5MB/s%7CNetflix%7CDisney%7C...
 vless://4ee35122-2e2d-4013-a1ba-e2d333d191fc@91.107.180.49:443?sni=www.cdn77.com&fp=chrome&security=tls#2%7C%F0%9F%87%A9%F0%9F%87%AA2%20%7C%20%201.1MB/s%7COpenai
 vless://bc2a2e87-e34b-4126-91ce-e7bccdafc4d4@c.c.ccccccccccccccccccccccccccccccccccccccccccc.cc:443?allowInsecure=0&sni=us.4056860.xyz&alpn=h3%252Ch2%252Chttp%252F1.1&type=ws&host=us.4056860.xyz&path=/wsfp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B811%20%7C%20%202.5MB/s%7C40%25%7CDisney%7COpe...
 hysteria2://nfsn666@192.9.129.48:8888?insecure=1&sni=sj-arm.nfsn666.gq#2%7C%F0%9F%87%BA%F0%9F%87%B812%20%7C%20%201.2MB/s%7C62%25%7CDisney%7COpe...
@@ -135,7 +136,6 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.206.182:443?sni=14713500400
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.177.165:443?sni=147135010072.sec21org.com&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B8115%20%7C%20%202.3MB/s%7C56%25%7COpenai
 trojan://RlzoEILU@36.151.251.61:8513?allowInsecure=1#2%7C%F0%9F%87%AC%F0%9F%87%A77%20%7C%20%203.0MB/s%7COpenai
 vless://55c0b97f-023f-4a68-9e30-1d6387756796@188.114.97.144:443?sni=cf.breakday.top&type=ws&host=cf.breakday.top&path=/?ed=2560fp=random&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B8116%20%7C%20%205.0MB/s%7C0%25%7CNetflix%7CDi...
-vless://60fd309e-1284-4851-bc84-b543a9d64062@140.238.12.134:37415?sni=www.samsung.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%B0%F0%9F%87%B720%20%7C%20%201.7MB/s%7C63%25%7CYoutube%7COp...
 vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@188.114.98.42:2053?sni=hi.univermap.site&type=ws&host=hi.univermap.site&path=/?ed=2560fp=random&security=tls#2%7C%F0%9F%87%B0%F0%9F%87%B721%20%7C%20%203.5MB/s%7C62%25%7COpenai
 vless://9bbaef0c-7403-44ec-b412-244437e8e74a@188.114.98.189:8443?sni=hi.univermap.site&type=ws&host=hi.univermap.site&path=/?ed=2560security=tls#2%7C%F0%9F%87%B0%F0%9F%87%B722%20%7C%20%201.0MB/s%7C62%25%7CDisney%7COpe...
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#2%7C%F0%9F%87%B8%F0%9F%87%AC2%20%7C%20%201.9MB/s%7C0%25%7CNetflix%7CDisn...
@@ -209,7 +209,6 @@ ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVhkemNITXdOVEF4@43.203.199.63:443#13%7C%E6%97%
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2V0c0NGFrdGtiVVJOTURCSlpVOGxJeVFqWmtwQlRYUnpSVUZGVlU5d1NDOVpWMWwwV1hGRVJtNVVNRk5X@103.186.154.20:38388#13%7C%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.46:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#14%7CAT_speednode_0001
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.51:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#14%7CAT_speednode_0002
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.95:80?allowInsecure=1&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#14%7CAU_speednode_0003
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@147.78.140.85:80?allowInsecure=1&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#14%7CBG_speednode_0004
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.45:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/proxyip=185.133.35.45:443security=tls#14%7CBR_speednode_0005
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@45.80.110.75:8880?allowInsecure=0&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=/?ed=2560#14%7CEE_speednode_0017
@@ -227,10 +226,8 @@ trojan://bpb-trojan@35.201.203.106:443?allowInsecure=1&sni=skwygx.top&type=ws&ho
 vless://82f6a148-5c4a-48f9-931a-e3b26777ffa2@45.150.165.121:7885?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CUS_speednode_0048
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@66.81.247.95:80?allowInsecure=1&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#14%7CUS_speednode_0055
 trojan://Aimer@167.68.4.10:2096?allowInsecure=0&sni=epccj.ambercc.filegear-sg.me&type=ws&host=epccj.ambercc.filegear-sg.me&path=/?ed=2560#14%7CUS_speednode_0065
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505081193439-w4OKhrzhsF.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:52013?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Futvbnrzejpmt%3Bhost%3Dhkkh11v1.xpmc.cc%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDNiMzViNDBhMjU@103.140.136.242:20621?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fymfvpytvkdp%3Bhost%3Djp06v1.3ci.xyz%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505081193439-w4OKhrzhsF.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 
 ```
-更新时间 2025-05-12 07:40:00
+更新时间 2025-05-12 07:41:41
