@@ -230,4 +230,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:52013?plug
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDNiMzViNDBhMjU@103.140.136.242:20621?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fymfvpytvkdp%3Bhost%3Djp06v1.3ci.xyz%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 
 ```
-更新时间 2025-05-12 08:24:00
+更新时间 2025-05-12 08:24:30
