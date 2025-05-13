@@ -23,7 +23,7 @@
 
 ```
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#3%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%205.4MB/s%7C15%25%7COpenai
-hysteria2://dongtaiwang.com@51.158.205.126:4489?insecure=1&sni=www.bing.com#3%7C%F0%9F%87%AB%F0%9F%87%B72%20%7C%20%205.2MB/s%7C15%25%7COpenai
+hysteria2://ad77e45c-0485-4357-9d64-1593aabc2c19@108.214.246.79:32321?insecure=1&alpn=h3#3%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%205.4MB/s%7CNetflix%7CDisney%7C...
 hysteria2://share%3Aa7690af7-03ed-48fa-bc93-561b7df50695@share.078900.xyz:11451?insecure=1&sni=share.078900.xyz&obfs=salamander&obfs-password=25b2b0cc-8663-4746-9773-1b053ca00ef6#3%7C%F0%9F%8C%801-IE%20%7C%20%203.1MB/s%7C32%25%7CYoutube%7CO...
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?type=ws&host=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.&path=/?ed=2560#3%7C%F0%9F%87%BA%F0%9F%87%B82%20%7C%20%202.4MB/s%7C0%25%7CDisney%7COpena...
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.19.60.193:2083?allowInsecure=1&sni=edccc.aimercc.filegear-sg.me&type=ws&host=edccc.aimercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#3%7C%F0%9F%87%BA%F0%9F%87%B83%20%7C%20%205.4MB/s%7C0%25%7CNetflix%7COpen...
@@ -98,6 +98,7 @@ vless://0343e230-5132-4e98-844e-b42ad1a6a273@www.gov.ua:2096?sni=nptian.xiaotian
 hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.215:443?insecure=1&sni=www.bing.com#3%7C%F0%9F%87%BA%F0%9F%87%B899%20%7C%20%204.7MB/s%7C47%25%7CNetflix%7CDi...
 trojan://c6840587-7ac4-40be-aa4b-ae327eb4fa53@172.67.200.117:443?allowInsecure=0&sni=ccdfRt6.890634.Xyz&alpn=http/1.1&type=ws&path=/ogSVyJu0ksqZjqvVUXlLhk95Ad#3%7C%F0%9F%87%BA%F0%9F%87%B8102%20%7C%20%202.3MB/s%7C29%25
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.174.138.206:80?allowInsecure=0&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560fp=chrome#3%2C15%7CRU_speednode_0165
+vless://be21e25f-5919-4e6b-b443-bfa45273de5d@218.38.33.77:11223?sni=mikuyo.bpd67081tsq.ddns-ip.net&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net&path=/?ed=2560fp=random&security=tls#3%7C%F0%9F%87%AF%F0%9F%87%B52%20%7C%20%202.4MB/s%7C7%25%7CDisney%7CYoutu...
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.152.205:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/proxyip=ProxyIP.Oracle.cmliussss.netfp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B8104%20%7C%20%202.8MB/s%7C62%25%7COpenai%7CGe...
 vless://4f3f7db1-f416-473e-8321-b2cec71c04ab@104.21.69.41:443?sni=MAs10xyZ.890602.XyZ&alpn=http/1.1&type=ws&host=mas10xyz.890602.xyz&path=/YzFLmzNIEQsAmceLxv94lPbgMwfp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B8105%20%7C%20%203.8MB/s%7C0%25%7COpenai
 hysteria2://ae403676-1f72-11ef-98df-f23c91cfbbc9@996b0aed-suz340-t21ryz-1rk0u.hy2.gotochinatown.net:8443?insecure=0&sni=996b0aed-suz340-t21ryz-1rk0u.hy2.gotochinatown.net#3%7C%F0%9F%87%BA%F0%9F%87%B8106%20%7C%20%201.0MB/s%7C46%25
@@ -120,8 +121,10 @@ vless://6543593a-f55e-422c-8ffd-b6d930b1808c@157.180.93.74:20000?sni=ebookiran.i
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/?ed=2560security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B8126%20%7C%20%204.6MB/s%7C0%25%7CDisney%7COpe...
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/security=tls#3%2C15%7CUS_speednode_0190
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:2096?sni=Jg3EqJvM8k.SoUbLoTiK.iNfO&alpn=h3h2&type=ws&host=Jg3EqJvM8k.SoUbLoTiK.iNfO&path=/fp=chrome&security=tls#3%7C%F0%9F%8C%8012-CY%20%7C%20%205.5MB/s%7C44%25%7COpenai
+vmess://eyJ2IjogIjIiLCAicHMiOiAiM3zwn4et8J+HsDMgfCAgMS41TUIvc3wxNSV8WW91dHViZSIsICJhZGQiOiAiZGU2Y2RmMGUtc3Yyc2cwLXN5Zmo5MC0xcjlkdC5oazMucDVwdi5jb20iLCAicG9ydCI6IDgwLCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJkZTAwM2M3Mi0wMTU3LTExZWYtODZkYS1mMjNjOTFjZmJiYzkiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8ifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiM3zwn4et8J+HsDQgfCAgMS43TUIvc3wxNSV8WW91dHViZXxPcGUuLi4iLCAiYWRkIjogImEwYWU4ZjI3LXN2NG40MC1zdzV3aTctdWZjMC5oazMucDVwdi5jb20iLCAicG9ydCI6IDgwLCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIyMjMwODk4OC04NTQ4LTExZWEtYTIyZS1mMjNjOTFjZmJiYzkiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8ifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiM3zwn4et8J+HsDUgfCAgMi4zTUIvc3wxNSV8WW91dHViZXxPcGUuLi4iLCAiYWRkIjogIjllNmZlODQyLXN2NG40MC10NmN0Z2MtMXMzaGQuaGszLnA1cHYuY29tIiwgInBvcnQiOiA4MCwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMWM2NDFjODYtNTA3OC0xMWVmLWE1ODUtZjIzYzkxNjRjYTVkIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiM3zwn4et8J+HsDYgfCAgMi43TUIvc3wxNSV8WW91dHViZXxPcGUuLi4iLCAiYWRkIjogIjBhZmFkYjRhLXN2NG40MC10YzYxY3MtMXRqYTguaGszLnA1cHYuY29tIiwgInBvcnQiOiA4MCwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZDJmMGJlZTItMDJmMS0xMWYwLThlYjAtZjIzYzkxNjRjYTVkIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiM3zwn4et8J+HsDcgfCAgMS4xTUIvc3wxNSV8WW91dHViZXxPcGUuLi4iLCAiYWRkIjogIjZkZTRiOWQ0LXN1azlzMC10OHJvN3QtMWV5MDcuaGszLnA1cHYuY29tIiwgInBvcnQiOiA4MCwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMjAzZDFkNjQtMzMxMy0xMWVkLWJiNzQtZjIzYzkxNjRjYTVkIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiM3zwn4et8J+HsDggfCAgMS4xTUIvc3wxNSV8WW91dHViZSIsICJhZGQiOiAiNDU3YTE0OTItc3Y0bjQwLXQ2a3picC0xaDV1Ny5oazMucDVwdi5jb20iLCAicG9ydCI6IDgwLCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJlM2ZkYmQyMi04YzE3LTExZWUtYWNlNC1mMjNjOTEzYzhkMmIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8ifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiM3zwn4et8J+HsDkgfCAgMi4wTUIvc3xZb3V0dWJlIiwgImFkZCI6ICI4N2E4Y2UyNS1zdjJzZzAtdGJpY2Q5LTFnbzNxLmhrMy5wNXB2LmNvbSIsICJwb3J0IjogODAsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjE5ZGQ5YzcwLWU0YTUtMTFlZC04MzQ3LWYyM2M5MTY0Y2E1ZCIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyJ9
@@ -153,9 +156,12 @@ hysteria2://p27Iss2ByA@p5.punchline.ir:48149?insecure=1&obfs=salamander&obfs-pas
 hysteria2://p27Iss2ByA@p5.punchline.ir:54075?insecure=1&obfs=salamander&obfs-password=qqodmxm9822E2Q8OC#11%7CMci-%40V2ray_Raha-8
 hysteria2://v2meowmeowmeow@103.68.108.25:443?insecure=1&sni=www.bing.com#12%7CHysteria%20%F0%9F%87%AE%F0%9F%87%B3%20%40v2meowcf
 hysteria2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&sni=www.bing.com#12%7CHysteria%20%F0%9F%87%B8%F0%9F%87%AC%20%40v2meowcf%20%231
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM=@hkkh11v1.xpmc.cc:45508#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR86aaZ5rivNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxNTY2YjI0YS1zdzdqNDAtc3h0NDEyLTFxcng1LmhnYzEudGNwYmJyLm5ldCIsICJwb3J0IjogIjgwODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJmNTI0YzYwMC1kYjhmLTExZWUtODE5ZS1mMjNjOTFjZmJiYzkiLCAic25pIjogIiIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyJ9
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo01a.kbservice.club:443?allowInsecure=0&sni=45.32.28.232#13%2C14%7C%E5%8F%B0%E6%B9%BE2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNzI0NzIyNDQ3ZWE=@103.140.136.242:57626#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#13%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.20:38388#13%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85pel5pysNXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0Ny43NC40MS4xNDciLCAicG9ydCI6ICI1Mzg5MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImtjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIwNzI4NzM2MC1lMTJmLTRmOTQtOWM3YS01NDM4NmMxMDBkOGEiLCAic25pIjogIiJ9
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2V0c0NGFrdGtiVVJOTURCSlpVOGxJeVFqWmtwQlRYUnpSVUZGVlU5d1NDOVpWMWwwV1hGRVJtNVVNRk5X@103.186.154.20:38388#14%7C%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
@@ -168,12 +174,10 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.188.181.214:80?allowInsecure=1&
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@46.8.224.211:80?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#15%7CFR_speednode_0157
 vless://2d317da5-47c5-4db4-933f-16d1094668db@hkt-ty-line-1.sudatech.store:20550?allowInsecure=0&sni=www.paypal.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CHK_speednode_0159
 trojan://Aimer@219.76.13.177:443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=/?ed=2560#15%7CHK_speednode_0160
+trojan://bpb-trojan@hr.madison.eu.org:443?allowInsecure=1&sni=skwygx.top&type=ws&host=skwygx.top&path=/tr?ed=2560#15%7CKR_speednode_0163
 vless://83e4c5c1-f8c8-470c-b02b-63c342a4e98e@5.10.246.231:443?allowInsecure=1&sni=mc2.mianfeicf.lol&alpn=h3%2Ch2%2Chttp/1.1&type=ws&host=mc2.mianfeicf.lol&path=/?ed=2560fp=chrome&security=tls#15%7CNL_speednode_0164
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.62:80?allowInsecure=0&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#15%7CSC_speednode_0168
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.62:80?allowInsecure=1&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/#15%7CSC_speednode_0169
-trojan://telegram-id-directvpn@56.228.73.107:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#15%7CSE_speednode_0170
-trojan://telegram-id-privatevpns@56.228.73.107:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#15%7CSE_speednode_0171
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@56.228.73.107:22224?allowInsecure=0&sni=trojan.burgerip.co.uk&type=ws&host=trojan.burgerip.co.uk&path=/telegram-channel-vlessconfigsecurity=tls#15%7CSE_speednode_0172
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.217.86:80?allowInsecure=1&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#15%7CUS_speednode_0174
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.32:80?allowInsecure=1&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#15%7CUS_speednode_0176
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@66.81.247.175:80?allowInsecure=1&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#15%7CUS_speednode_0179
@@ -188,4 +192,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:45508?plug
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNzI0NzIyNDQ3ZWE@103.140.136.242:57626?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fnreuudyxqo%3Bhost%3Djp06v1.3ci.xyz%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 
 ```
-更新时间 2025-05-13 11:40:00
+更新时间 2025-05-13 11:42:57
