@@ -26,6 +26,7 @@ hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&fp=&sni=www.bing.co
 hysteria2://dongtaiwang.com@hy2.694463.xyz:10011?insecure=1&sni=www.bing.com#1%7C%F0%9F%87%B7%F0%9F%87%BA1%20%7C%20%204.2MB/s%7C0%25
 hysteria2://dongtaiwang.com@51.158.205.126:4489?insecure=1&sni=www.bing.com#1%7C%F0%9F%87%AB%F0%9F%87%B72%20%7C%20%205.6MB/s%7C15%25%7COpenai
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.32:80?allowInsecure=1&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560fp=chrome#1%2C14%7CUS_speednode_0061
+hysteria2://ad77e45c-0485-4357-9d64-1593aabc2c19@108.214.246.79:32321?insecure=1&alpn=h3#1%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%205.3MB/s%7C24%25%7CNetflix%7CDis...
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.36.55.181:80?allowInsecure=1&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#1%2C14%7CGB_speednode_0020
 vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.16.193.4:8443?sni=hi.univermap.site&type=ws&host=hi.univermap.site&path=/?ed=2560fp=random&security=tls#1%7C%F0%9F%87%B0%F0%9F%87%B71%20%7C%20%201.4MB/s%7C61%25%7COpenai
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.174.138.206:80?allowInsecure=0&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#1%2C14%7CRU_speednode_0032
@@ -101,7 +102,6 @@ vless://53721970-2138-4263-8c9c-21397e759c06@172.67.193.228:443?sni=M3vVvbNFFfG.
 vless://17d7913a-da39-4e09-8634-8734679a19ae@zmaoz.faculty.ucdavis.edu:80?type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#1%7C%F0%9F%87%A9%F0%9F%87%AA15%20%7C%20%202.5MB/s%7C20%25%7COpenai
 vless://26979b4d-1ff8-4c8f-940e-5eb4c116c8f7@93.127.180.140:443?sni=www.cdn77.com&fp=chrome&security=tls#1%7C%F0%9F%87%A6%F0%9F%87%AA3%20%7C%20%201.9MB/s%7C0%25%7COpenai
 vless://891e9fe4-9165-42ec-d714-e2d80f491e2b@57.129.13.51:443?sni=de.demandio.se&alpn=http/1.1&fp=safari&security=tls#1%7C%F0%9F%87%A9%F0%9F%87%AA16%20%7C%20%203.0MB/s%7C43%25%7CYoutube%7COp...
-vless://e12c6b99-f242-4c43-8411-edb7b333c79a@5.75.205.247:28495?sni=www.fra-shop.ir&fp=chrome&security=tls#1%7C%F0%9F%87%A9%F0%9F%87%AA17%20%7C%20%202.3MB/s%7C22%25%7CYoutube%7COp...
 vless://0ccd63be-129a-425a-8df0-fb208763fec1@49.12.105.24:20878?#1%7C%F0%9F%87%A9%F0%9F%87%AA18%20%7C%20%203.1MB/s%7C20%25%7COpenai
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:8443?sni=LmYgYfHo21.vElTrIxS.OrG&alpn=h3h2&type=ws&host=LmYgYfHo21.vElTrIxS.OrG&path=/fp=chrome&security=tls#1%7C%F0%9F%87%A9%F0%9F%87%AA19%20%7C%20%205.7MB/s%7C22%25%7COpenai
 vless://07eaf930-14df-4508-9ad3-d3aae5e10ab1@91.134.88.205:443?sni=france.linceed.se&alpn=http/1.1&fp=safari&security=tls#1%7C%F0%9F%87%AB%F0%9F%87%B74%20%7C%20%205.5MB/s%7C50%25%7CYoutube%7COpe...
@@ -200,7 +200,9 @@ hysteria2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&sni=www
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM=@hkkh11v1.xpmc.cc:45508#12%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTIsMTN86aaZ5rivNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxNTY2YjI0YS1zdzdqNDAtc3h0NDEyLTFxcng1LmhnYzEudGNwYmJyLm5ldCIsICJwb3J0IjogIjgwODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJmNTI0YzYwMC1kYjhmLTExZWUtODE5ZS1mMjNjOTFjZmJiYzkiLCAic25pIjogIiIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyJ9
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo01a.kbservice.club:443?allowInsecure=0&sni=45.32.28.232#12%2C13%7C%E5%8F%B0%E6%B9%BE2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#12%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNzI0NzIyNDQ3ZWE=@103.140.136.242:57626#12%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#12%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN85pel5pysNXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0Ny43NC40MS4xNDciLCAicG9ydCI6ICI1Mzg5MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImtjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIwNzI4NzM2MC1lMTJmLTRmOTQtOWM3YS01NDM4NmMxMDBkOGEiLCAic25pIjogIiJ9
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2V0c0NGFrdGtiVVJOTURCSlpVOGxJeVFqWmtwQlRYUnpSVUZGVlU5d1NDOVpWMWwwV1hGRVJtNVVNRk5X@103.186.154.20:38388#13%7C%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.95:80?allowInsecure=1&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#14%7CAU_speednode_0003
@@ -224,4 +226,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:45508?plug
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNzI0NzIyNDQ3ZWE@103.140.136.242:57626?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fnreuudyxqo%3Bhost%3Djp06v1.3ci.xyz%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 
 ```
-更新时间 2025-05-13 03:40:00
+更新时间 2025-05-13 03:42:02
