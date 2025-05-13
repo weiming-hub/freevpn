@@ -34,6 +34,7 @@ vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.16.193.4:8443?sni=hi.univermap.
 trojan://3d4ad187-b554-4300-bf71-d26c71962504@104.21.78.243:443?allowInsecure=0&sni=FFfgtyy.7282728.XYZ&alpn=http/1.1&type=ws&path=/WaHA3RC540rQ8PWqRcOEICAwmfH7#1%7C%F0%9F%87%BA%F0%9F%87%B86%20%7C%20%202.0MB/s%7C29%25%7COpenai
 hysteria2://dongtaiwang.com@hy2.694463.xyz:10011?insecure=1&sni=www.bing.com#1%7C%F0%9F%87%B7%F0%9F%87%BA1%20%7C%20%203.3MB/s%7C0%25
 vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.16.168.120:8443?sni=hi.univermap.site&type=ws&host=hi.univermap.site&path=fp=chrome&security=tls#1%7C%F0%9F%87%B0%F0%9F%87%B75%20%7C%20%202.6MB/s%7CDisney%7COpenai
+hysteria2://ad77e45c-0485-4357-9d64-1593aabc2c19@108.214.246.79:32321?insecure=1&alpn=h3#1%7C%F0%9F%87%BA%F0%9F%87%B87%20%7C%20%204.1MB/s%7C24%25%7CNetflix%7CDis...
 vless://fefba36d-5142-42f1-b14d-db5249511d93@104.21.42.250:443?sni=5c.191268.xyz&alpn=http/1.1&type=ws&host=5c.191268.xyz&path=/dRTvoZIiPpwkqKrjEfp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B88%20%7C%20%205.8MB/s%7C0%25%7COpenai
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.174.138.206:80?allowInsecure=0&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#1%2C15%7CRU_speednode_0032
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e68J+HuDE2IHwgIDQuNU1CL3N8MjklfE9wZW5haSIsICJhZGQiOiAiMTcyLjY3LjE3MC41MSIsICJwb3J0IjogODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNlZDMwN2EyLWFmMmMtNDExMy1iZWJjLWZiODg4YzcwMmI3ZCIsICJob3N0IjogIm00ZnJ0Ljk5OTE4Mi54eXoiLCAicGF0aCI6ICIvUEVRN0NvQTFWckJ3c2JuRWNtSkx4QyJ9
@@ -74,7 +75,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.61:80?allowInsecure=1&sni=
 vless://2d317da5-47c5-4db4-933f-16d1094668db@hkt-ty-line-1.sudatech.store:20550?allowInsecure=0&sni=www.paypal.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C15%7CHK_speednode_0022
 trojan://0588@175.203.30.93:50000?allowInsecure=1&sni=888.uskm.dpdns.org&type=ws&host=888.uskm.dpdns.org&path=/?ed=2560#1%2C15%7CKR_speednode_0026
 trojan://1549e70f-dc57-45e3-ac7c-515f0161db72@104.21.7.147:443?allowInsecure=0&sni=6667.HUAnGSHanG.dpdNs.orG&alpn=http/1.1&type=ws&path=/TomYJoQX0RSt1mktNrT#1%7C%F0%9F%87%BA%F0%9F%87%B855%20%7C%20%203.6MB/s%7C29%25%7COpenai
-trojan://telegram-id-directvpn@56.228.73.107:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#1%7C%F0%9F%8C%808-SE%20%7C%20%205.5MB/s%7C30%25%7CYoutube%7CO...
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p222.panda001.net:15098#1%7C%F0%9F%87%B0%F0%9F%87%B77%20%7C%20%204.1MB/s%7C44%25%7CNetflix%7CDis...
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4er8J+HtzMgfCAgMi43TUIvc3wwJXxPcGVuYWkiLCAiYWRkIjogIjE3Mi42Ny4xMzYuMjMzIiwgInBvcnQiOiA0NDMsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwgImhvc3QiOiAiYXowNS5iZXlvbmR5LmNmZCIsICJwYXRoIjogIi9saW5rIn0=
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.35:38388#1%7C%F0%9F%8C%809-VN%20%7C%20%204.3MB/s%7C0%25%7CYoutube%7COp...
@@ -109,7 +109,9 @@ hysteria2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&sni=www
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@34.218.249.8:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM=@hkkh11v1.xpmc.cc:45508#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo01a.kbservice.club:443?allowInsecure=0&sni=45.32.28.232#13%2C14%7C%E5%8F%B0%E6%B9%BE2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNzI0NzIyNDQ3ZWE=@103.140.136.242:57626#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#13%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw==@43.203.199.63:443#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw==@43.202.68.234:443#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.20:38388#13%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
@@ -142,7 +144,9 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@66.81.247.175:80?allowInsecure=1&sn
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/security=tls#15%7CUS_speednode_0062
 trojan://Aimer@167.68.4.10:2096?allowInsecure=0&sni=epccj.ambercc.filegear-sg.me&type=ws&host=epccj.ambercc.filegear-sg.me&path=/?ed=2560#15%7CUS_speednode_0065
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNzI0NzIyNDQ3ZWE@103.140.136.242:57626?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fnreuudyxqo%3Bhost%3Djp06v1.3ci.xyz%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505121278853-EprnOgosvY.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505121278853-EprnOgosvY.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:45508?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Futvbnrzejpmt%3Bhost%3Dhkkh11v1.xpmc.cc%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 
 ```
-更新时间 2025-05-12 23:40:00
+更新时间 2025-05-12 23:41:45
