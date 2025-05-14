@@ -5,9 +5,9 @@
 ### 付费VPN
 * [快速翻墙](https://uhuio.top/) 
 
-* [小火煎账号](https://free-clash.top/) 
-
 * [点击进入机场](https://uhuio.top/) 
+
+* [免费小火煎账号](https://free-clash.top/) 
 
 * 极速访问：直达全球内容，无任何卡顿。
 
@@ -31,9 +31,9 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4er8J+HtzMgfCAgNS41TUIvc3wxMDAlfE9wZW5haSIs
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?sni=ZgPrMnBc2.ZuMuT.InFo&alpn=h2http/1.1&type=ws&host=ZgPrMnBc2.ZuMuT.InFo&path=/fp=chrome&security=tls#2%7C%F0%9F%8C%801-MD%20%7C%20%205.6MB/s%7C44%25%7COpenai
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?sni=KvXvLqMn5.ZuKaR.InFo&alpn=h2http/1.1&type=ws&host=KvXvLqMn5.ZuKaR.InFo&path=/fp=chrome&security=tls#2%7C%F0%9F%87%B3%F0%9F%87%B12%20%7C%20%203.2MB/s%7C44%25%7COpenai
 hysteria2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001?insecure=1&sni=192-227-152-86.nip.io#2%7C%F0%9F%87%BA%F0%9F%87%B813%20%7C%20%204.5MB/s%7C32%25%7CDisney%7COpe...
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4e68J+HuDYyIHwgIDEuME1CL3N8NTAlfE9wZW5haSIsICJhZGQiOiAiZDI4NjBkN2QtMDdlZS1hMGRiLWVmN2ItNTQ4MDhkYjAwYjAzLjg5MDYwMS5wcC51YSIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiNTQ1M2FlMjYtMjUwZC00ZTc5LWI0ZWMtMDE2YmFmODA2ODY1IiwgInNuaSI6ICJkMjg2MGQ3ZC0wN2VlLWEwZGItZWY3Yi01NDgwOGRiMDBiMDMuODkwNjAxLnBwLnVhIiwgImhvc3QiOiAiZDI4NjBkN2QtMDdlZS1hMGRiLWVmN2ItNTQ4MDhkYjAwYjAzLjg5MDYwMS5wcC51YSIsICJwYXRoIjogIi9oN1JjdTB5MzBsaGpkVmpKM2djNGFqIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4er8J+HtzggfCAgMy45TUIvc3wxMDAlIiwgImFkZCI6ICIxODguMTE0Ljk2LjMiLCAicG9ydCI6IDQ0MywgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAicGF0aCI6ICIvbGlua3dzIn0=
 vless://5453ae26-250d-4e79-b4ec-016baf806865@172.67.163.14:443?sni=1QQsSS.2031.PP.UA&alpn=http/1.1&type=ws&host=1qqsss.2031.pp.ua&path=/XcQF058rNJ3gc4ajsecurity=tls#2%7C%F0%9F%87%BA%F0%9F%87%B829%20%7C%20%202.5MB/s%7C50%25%7COpenai
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:443?sni=LgAuTuYy21.mInTiVo.oRg&alpn=h3h2&type=ws&host=LgAuTuYy21.mInTiVo.oRg&path=/security=tls#2%7C%F0%9F%87%B3%F0%9F%87%B13%20%7C%20%205.0MB/s%7C44%25%7COpenai
 vless://15b24b56-d667-4fa8-b548-f3dc942fb461@172.67.208.155:443?sni=2werty.2030.pp.ua&alpn=http/1.1&type=ws&host=2werty.2030.pp.ua&path=/ok1UBnf7txQ8YJFJxzsecurity=tls#2%7C%F0%9F%87%BA%F0%9F%87%B831%20%7C%20%201.5MB/s%7COpenai
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?type=ws&host=QW.VU6d72nt9y.zULaiR.orG.&path=#2%7C%F0%9F%87%AB%F0%9F%87%B711%20%7C%20%201.5MB/s%7C15%25%7COpenai
 vless://9935c003-553b-4746-bef1-5abef7e30c84@104.19.54.50:8080?type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net.&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#2%7C%F0%9F%87%A9%F0%9F%87%AA4%20%7C%20%201.1MB/s%7C31%25%7COpenai
@@ -43,7 +43,6 @@ vless://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@104.21.25.95:443?sni=ddD.890604.FiL
 vless://56652249-2e67-4429-b86c-3df8b838ad85@104.26.15.85:8080?type=ws&host=4j.QBAo1g5z6k.ZulaIR.org.&path=#2%7C%F0%9F%87%AB%F0%9F%87%B712%20%7C%20%205.7MB/s%7C15%25
 trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@104.26.12.31:443?allowInsecure=0&sni=fwd-refuse-senators-brought.trycloudflare.com&type=ws&path=/trojan-argo?ed=2560#2%7C%F0%9F%87%AB%F0%9F%87%B713%20%7C%20%204.8MB/s%7C42%25%7COpenai
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4er8J+HtzE0IHwgIDMuNE1CL3N8MCUiLCAiYWRkIjogImNsb3VkZ2V0c2VydmljZS5tY2xvdWRzZXJ2aWNlLnNpdGUiLCAicG9ydCI6IDQ0MywgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIzN2Y0NjRjYi1iODI2LTQyNzgtOWJmOC0xMWJkZjFlYzg5MmIiLCAiaG9zdCI6ICJGcmEtVnAtMTIzLkJMYVpFQ0xPVUQuU2l0ZSIsICJwYXRoIjogIi9saW52a3dzIn0=
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:8443?sni=GxVpOnLl13.pRiMeXaD.OrG&type=ws&host=GxVpOnLl13.pRiMeXaD.OrG&path=/fp=chrome&security=tls#2%7C%F0%9F%87%B3%F0%9F%87%B15%20%7C%20%205.9MB/s%7C52%25%7COpenai
 trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?allowInsecure=0&sni=NOp-55q.pAgEs.dEv&alpn=h2%2Chttp/1.1&type=ws&path=/trGPZDfetEwuO25SAs?ed=2560#2%7C%F0%9F%87%A9%F0%9F%87%AA7%20%7C%20%201.5MB/s%7C22%25%7COpenai
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.35.218:443?sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=/?ed=2560fp=random&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B856%20%7C%20%201.3MB/s%7C0%25%7CNetflix%7CDis...
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@162.159.193.194:443?sni=ZyzZzoAO.puTAta.eu.ORg&alpn=h2%2Chttp/1.1&type=ws&host=zyzzzoao.putata.eu.org&path=/N5Ank0DUsNvJIVyL?ed=2560fp=randomized&security=tls#2%7C%F0%9F%87%B0%F0%9F%87%B72%20%7C%20%206.8MB/s%7CNetflix%7CDisney%7C...
@@ -54,7 +53,6 @@ trojan://70776bb4-d791-4cbd-9c9b-c76e937f9e60@172.67.216.240:443?allowInsecure=0
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4er8J+HtzE1IHwgIDIuME1CL3N8MTAwJXxPcGVuYWkiLCAiYWRkIjogIjEwNC4yNi4wLjk1IiwgInBvcnQiOiAiNDQzIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAicGF0aCI6ICIvbGlua3dzIn0=
 vless://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@104.21.63.226:443?sni=SdERt.457.pp.UA&alpn=http/1.1&type=ws&host=sdert.457.pp.ua&path=/AMpQdWyvpaPkb7QHHkQBzYOfp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B865%20%7C%20%205.7MB/s%7C0%25%7COpenai
 trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@104.21.25.95:443?allowInsecure=0&sni=DDd.890604.FIlEGear-sG.Me&type=ws&path=/mZr1mA5hub7QHHkQBzYO#2%7C%F0%9F%87%BA%F0%9F%87%B866%20%7C%20%203.1MB/s%7C0%25%7CYoutube%7COpe...
-vless://ebef07c5-c68b-4fd5-aa91-cefa18d010c7@49.12.105.24:20878?#2%7C%F0%9F%87%A9%F0%9F%87%AA10%20%7C%20%205.3MB/s%7C20%25%7COpenai
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@66.81.247.95:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=#2%7C%F0%9F%87%BA%F0%9F%87%B867%20%7C%20%205.3MB/s%7C30%25%7CNetflix%7CDi...
 vless://d6f051d2-b704-4434-a4b9-872037153372@172.67.216.240:443?sni=MnBVc.857856.XyZ&alpn=http/1.1&type=ws&host=mnbvc.857856.xyz&path=/aNjfTh80CxZmq1LOYwifp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B870%20%7C%20%205.7MB/s%7CNetflix%7COpenai
 trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.44.214:2053?allowInsecure=0&sni=NOp-55q.pAgEs.dEv&alpn=h2%2Chttp/1.1&type=ws&path=/trGPZDfetEwuO25SAs?ed=2560#2%7C%F0%9F%87%AE%F0%9F%87%B31%20%7C%20%201.6MB/s%7CDisney%7COpenai
@@ -62,6 +60,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.174.138.206:80?sni=ipsycho.suex
 vless://60af76a9-66c2-461e-8545-6fe0ac2822f8@104.21.17.127:443?sni=trre.859885.xyz&alpn=http/1.1&type=ws&host=trre.859885.xyz&path=/6pC5ZWNjJLlDlbpifp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B872%20%7C%20%204.5MB/s%7C0%25%7CNetflix%7CDis...
 vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?sni=M2-1CM.paGes.DeV&type=ws&host=M2-1CM.paGes.DeV&path=fp=chrome&security=tls#2%7C%F0%9F%87%B0%F0%9F%87%B73%20%7C%20%201.9MB/s%7C61%25%7CDisney%7COpen...
 trojan://0bf83a1d-f785-487a-a479-3c3de2566ba6@104.21.75.75:443?allowInsecure=0&sni=Xs2ws.857856.xYz&alpn=http/1.1&type=ws&path=/xJXdWGMbbZovkcaL2SsGTGxE#2%7C%F0%9F%87%BA%F0%9F%87%B875%20%7C%20%205.9MB/s%7C29%25%7CNetflix%7COp...
+vless://bf8e4a1e-38be-4e4e-83c4-32977b97cfcb@zula.ir:8443?sni=vip.donghi.ir&alpn=h3%2Ch2%2Chttp/1.1&type=ws&host=vip.donghi.ir&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7fp=chrome&security=tls#2%7C%F0%9F%87%AB%F0%9F%87%B717%20%7C%20%205.7MB/s%7C43%25%7COpenai
 vless://321cc007-bb85-41c9-b686-1f45cf5174e0@172.66.46.247:443?sni=MiSTliNK-CL9.pAgEs.Dev&alpn=h2%2Chttp/1.1&type=ws&host=mistlink-cl9.pages.dev&path=/ERlnnsHzyLczPW3c?ed=2560fp=randomized&security=tls#2%7C%F0%9F%87%AB%F0%9F%87%AE3%20%7C%20%201.0MB/s%7C20%25%7CDisney%7COpen...
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?allowInsecure=0&sni=Koma-YT.PAGeS.Dev&alpn=h2%2Chttp/1.1&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560#2%7C%F0%9F%87%BA%F0%9F%87%B876%20%7C%20%202.0MB/s%7C0%25%7CNetflix%7CDis...
 vless://49d4b99d-7d99-416a-9778-2c75d79100bb@172.66.47.92:443?sni=Work-YUU00.pageS.dEv&alpn=h2%2Chttp/1.1&type=ws&host=work-yuu00.pages.dev&path=fp=chrome&security=tls#2%7C%F0%9F%87%B8%F0%9F%87%AC2%20%7C%20%205.3MB/s%7C30%25%7CNetflix%7CDis...
@@ -74,7 +73,6 @@ vless://c118fe67-1457-4744-9732-018c21dd780f@104.17.148.22:2082?type=ws&host=nov
 vless://e2206170-7279-4088-b077-18fed02a2494@www.zula.ir:8880?type=ws&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048#2%7C%F0%9F%87%A9%F0%9F%87%AA15%20%7C%20%204.9MB/s%7C22%25%7CNetflix%7CDi...
 vless://8f7fe273-e06d-47d5-9deb-d7b3c95dc573@104.16.216.90:443?sni=hai.gdz.buzz&type=ws&host=hai.gdz.buzz&path=fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B890%20%7C%20%201.3MB/s%7C0%25%7CNetflix%7CDis...
 vless://3d4feba7-e2bd-4ff6-bbac-2420b9cea5e6@104.16.56.70:443?sni=fire-53y.pages.dev&type=ws&host=fire-53y.pages.dev&path=fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B891%20%7C%20%201.6MB/s%7C0%25%7CDisney%7COpen...
-vless://f12977e6-d296-4d94-9aaf-d31770b70f84@zula.ir:443?sni=cr77.hedieh.dpdns.org&type=ws&host=cr77.hedieh.dpdns.org&path=/?ed=2560fp=chrome&security=tls#2%7C%F0%9F%87%AD%F0%9F%87%BA1%20%7C%20%202.0MB/s%7C44%25%7CNetflix%7CDis...
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4er8J+HtzIxIHwgIDIuME1CL3N8MTAwJXxPcGVuYWkiLCAiYWRkIjogIjE4OC4xMTQuOTcuMiIsICJwb3J0IjogNDQzLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsICJzbmkiOiAib2JkaWkuY2ZkIiwgImhvc3QiOiAib2JkaWkuY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyJ9
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:2096?allowInsecure=1&sni=Jg3EqJvM8k.SoUbLoTiK.iNfO&type=ws&path=/security=tls#2%7C%F0%9F%8C%808-CY%20%7C%20%205.9MB/s%7C44%25%7COpenai
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@us.10101251.xyz:3002?insecure=0&sni=us.10101251.xyz#2%7C%F0%9F%87%BA%F0%9F%87%B8128%20%7C%20%205.3MB/s%7C100%25%7CNetflix%7C...
@@ -87,6 +85,5 @@ vless://83e4c5c1-f8c8-470c-b02b-63c342a4e98e@5.10.246.231:443?allowInsecure=1&sn
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.174.138.206:80?allowInsecure=0&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#14%7CRU_speednode_0020
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560fp=random&security=tls#14%7CUS_speednode_0030
 vless://291c27a5-34d2-4081-83cc-2196cd208148@support.zoom.us:8080?allowInsecure=1&sni=xrr.rtxconfigz.xyz&type=ws&host=xrr.rtxconfigz.xyz&path=/flow=none-udp443#14%7CUS_speednode_0033
-
 ```
-更新时间 2025-05-14 04:20:00
+更新时间 2025-05-14 04:25:00
