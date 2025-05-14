@@ -88,4 +88,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.174.138.206:80?allowInsecure=0&
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560fp=random&security=tls#14%7CUS_speednode_0030
 
 ```
-更新时间 2025-05-14 03:52:00
+更新时间 2025-05-14 03:52:30
