@@ -74,4 +74,4 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.184:443?allowInsecure=1&s
 vless://291c27a5-34d2-4081-83cc-2196cd208148@170.114.45.6:8080?allowInsecure=0&sni=xrr.rtxconfigz.xyz&type=ws&host=xrr.rtxconfigz.xyz&path=/#15%7CUS_speednode_0055
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.199:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.199:443&proxyIP=null#15%7CZA_speednode_0056
 ```
-更新时间 2025-05-14 18:43:00
+更新时间 2025-05-14 18:43:30
