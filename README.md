@@ -60,4 +60,4 @@ vless://83e4c5c1-f8c8-470c-b02b-63c342a4e98e@5.10.246.231:443?allowInsecure=1&sn
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.174.138.206:80?allowInsecure=0&sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/re5IzbZ9IZZMddtw?ed=2560#14%7CRU_speednode_0020
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560fp=random&security=tls#14%7CUS_speednode_0030
 ```
-更新时间 2025-05-14 06:41:00
+更新时间 2025-05-14 06:41:30
