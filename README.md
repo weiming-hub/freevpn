@@ -101,7 +101,6 @@ vless://bf8e4a1e-38be-4e4e-83c4-32977b97cfcb@172.67.204.84:8443?sni=vip.donghi.i
 vless://5453ae26-250d-4e79-b4ec-016baf806865@104.21.71.205:443?sni=7d33510a-5dA0-4F85-b1d5-5321a9eaA72a.890603.pP.uA&alpn=http/1.1&type=ws&host=7d33510a-5da0-4f85-b1d5-5321a9eaa72a.890603.pp.ua&path=/XcQF058rNJ3gc4ajfp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B899%20%7C%20%201.8MB/s%7C50%25%7COpenai
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.1:80?type=ws&host=ipsycho.suex12.ir.&path=Telegram🇨🇳 @WangCai2 /?ed=2560#2%7C%F0%9F%87%B8%F0%9F%87%AC3%20%7C%20%205.8MB/s%7C30%25%7CDisney%7COpen...
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?type=ws&host=QW.VU6d72nt9y.zULaiR.orG.&path=#2%7C%F0%9F%87%AB%F0%9F%87%B716%20%7C%20%205.3MB/s%7COpenai
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.144.133:22224?sni=trojan.burgerip.co.uk&type=ws&host=&path=/telegram-channel-vlessconfigfp=chrome&security=tls#2%7C%F0%9F%87%A9%F0%9F%87%AA6%20%7C%20%201.4MB/s%7C30%25%7CYoutube%7COpe...
 trojan://telegram-id-directvpn@3.77.67.70:22223?allowInsecure=0&sni=trojan.burgerip.co.uk&alpn=http/1.1#2%7C%F0%9F%87%A9%F0%9F%87%AA7%20%7C%20%205.6MB/s%7C30%25%7COpenai
 trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@104.26.13.31:443?allowInsecure=0&sni=fwd-refuse-senators-brought.trycloudflare.com&type=ws&path=/trojan-argo?ed=2560#2%7C%F0%9F%87%AB%F0%9F%87%B717%20%7C%20%201.8MB/s%7C42%25%7COpenai
 vless://4f3f7db1-f416-473e-8321-b2cec71c04ab@172.67.204.22:443?sni=MAs10xyZ.890602.XyZ&type=ws&host=mas10xyz.890602.xyz&path=/YzFLmzNIEQsAmceLxv94lPbgMwfp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B8100%20%7C%20%205.9MB/s%7C0%25%7CYoutube%7COp...
@@ -134,7 +133,6 @@ hysteria2://48c1e014-28d6-11ec-a0fc-f23c913c8d2b@7c8eb5c8-sw3ts0-sxlsd4-3z3v.hy2
 hysteria2://44cc8f88-2495-4a69-bb34-e674b940db4f@45.147.201.231:31005?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#2%7C%F0%9F%87%BA%F0%9F%87%B8119%20%7C%20%201.6MB/s%7C29%25%7COpenai
 hysteria2://3c9c2bed-0fa1-43dd-9faa-05ffb099dddf@45.147.201.231:31005?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#2%7C%F0%9F%87%BA%F0%9F%87%B8122%20%7C%20%201.2MB/s%7C29%25%7COpenai
 hysteria2://9e379764-6539-469f-90d5-5e48e9b9a4b8@45.147.201.231:30072?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#2%7C%F0%9F%87%BA%F0%9F%87%B8125%20%7C%20%201.0MB/s%7C29%25%7COpenai%7CGe...
-hysteria2://ad77e45c-0485-4357-9d64-1593aabc2c19@108.214.246.79:32321?insecure=1&alpn=h3#2%7C%F0%9F%87%BA%F0%9F%87%B8126%20%7C%20%204.2MB/s%7C24%25%7CNetflix%7CD...
 vless://b30a50bc-0f63-422d-bbd6-8c790c0abb4d@104.21.63.226:443?sni=m8ui9.457.pp.ua&alpn=http/1.1&type=ws&host=m8ui9.457.pp.ua&path=/32FkuhQSR866TVMXPAlfp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B8128%20%7C%20%202.6MB/s%7COpenai
 hysteria2://d711d15c-adf6-4d98-991e-93172cc5eff0@qyhg.qy1357.top:30003?insecure=1&sni=qyhg.qy1357.top#2%7C%F0%9F%87%B0%F0%9F%87%B76%20%7C%20%203.4MB/s%7C62%25%7CYoutube%7COpe...
 hysteria2://d711d15c-adf6-4d98-991e-93172cc5eff0@qyxjp.qy1357.top:30003?insecure=1&sni=qyxjp.qy1357.top#2%7C%F0%9F%87%B8%F0%9F%87%AC4%20%7C%20%204.8MB/s%7CYoutube%7COpenai%7C...
@@ -206,10 +204,8 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@34.160.118.77:80?allowInsecure=0&sn
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560fp=random&security=tls#14%7CUS_speednode_0189
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/security=tls#14%7CUS_speednode_0190
 vless://291c27a5-34d2-4081-83cc-2196cd208148@support.zoom.us:8080?allowInsecure=1&sni=xrr.rtxconfigz.xyz&type=ws&host=xrr.rtxconfigz.xyz&path=/flow=none-udp443#14%7CUS_speednode_0192
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505121278853-KpcJWnTsUP.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzA5NjFmMGE4YTY@103.140.136.242:39770?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fbpqzubxyzm%3Bhost%3Djp06v1.3ci.xyz%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505121278853-KpcJWnTsUP.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:37441?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Futvbnrzejpmt%3Bhost%3Dhkkh11v1.xpmc.cc%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 
 ```
-更新时间 2025-05-13 23:40:00
+更新时间 2025-05-13 23:42:38
