@@ -295,4 +295,4 @@ vless://b6775c28-f69c-448e-ae30-719cd21539da@172.66.47.173:2053?security=tls&sni
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.75.49:2087?security=tls&sni=edccq.aimercc.filegear-sg.me&type=ws&host=edccq.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-92.243.75.49:2087
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.200.160.119:443?sni=sv.ylka.dpdns.org&type=ws&host=sv.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-192.200.160.119:443
 ```
-更新时间 2025-05-16 00:27:00
+更新时间 2025-05-16 00:27:30
