@@ -34,9 +34,10 @@ vless://f12977e6-d296-4d94-9aaf-d31770b70f84@zula.ir:443?sni=cr77.hedieh.dpdns.o
 trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.44.214:2053?allowInsecure=0&sni=NOp-55q.pAgEs.dEv&alpn=h2%2Chttp/1.1&type=ws&path=/trGPZDfetEwuO25SAs?ed=2560#1%7C%F0%9F%87%B3%F0%9F%87%B11%20%7C%20%201.1MB/s%7C0%25%7CDisney%7COpena...
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.253:80?type=ws&host=us.laoyoutiao.link&path=/Telegram🇨🇳#1%7C%F0%9F%87%BA%F0%9F%87%B844%20%7C%20%203.0MB/s
 vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.45.20:443?sni=M2-1CM.paGes.DeV&type=ws&host=M2-1CM.paGes.DeV&path=/ognicwivyrkxih6rfp=chrome&security=tls#1%7C%F0%9F%87%B0%F0%9F%87%B72%20%7C%20%201.4MB/s%7C61%25%7CDisney%7COpen...
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_7ee8@www.speedtest.net:80?type=ws&host=isvchannel1.isvpython.online&path=/vless?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048#1%7C%F0%9F%8C%806-CY%20%7C%20%201.6MB/s%7C44%25%7CYoutube%7CO...
 vless://efc6801e-d8d1-49ba-ab32-d04549c5883f@188.114.97.1:8880?type=ws&host=join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.netty.ip-ddns.com.&path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048#1%7C%F0%9F%87%A9%F0%9F%87%AA5%20%7C%20%205.3MB/s%7C22%25%7CNetflix%7CDis...
-vless://7567285f-818c-4331-aa95-47d88c598de3@zula.ir:8880?type=ws&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&path=/?ed=2048#1%7C%F0%9F%87%AB%F0%9F%87%B74%20%7C%20%205.4MB/s%7C43%25%7COpenai
 vless://321cc007-bb85-41c9-b686-1f45cf5174e0@172.66.45.9:443?sni=MiSTliNK-CL9.pAgEs.Dev&alpn=h2%2Chttp/1.1&type=ws&host=mistlink-cl9.pages.dev&path=/ERlnnsHzyLczPW3c?ed=2560fp=randomized&security=tls#1%7C%F0%9F%87%AD%F0%9F%87%B02%20%7C%20%201.0MB/s%7C0%25%7CDisney%7COpena...
+vless://efc6801e-d8d1-49ba-ab32-d04549c5883f@parspack.com:8880?type=ws&host=join.vPncustomize.iran.ir.arvancloud.ir.www.speedtest.netty.ip-ddns.com.&path=/Channel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY----Channel-ELiV2RAY?ed=2048#1%7C%F0%9F%87%A9%F0%9F%87%AA7%20%7C%20%204.9MB/s%7C22%25%7CNetflix%7CDis...
 vless://efd12cb2-7021-480f-bbfd-b58d66a559d7@www.speedtest.net:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#1%7C%F0%9F%87%A9%F0%9F%87%AA9%20%7C%20%205.7MB/s%7C0%25%7COpenai
 vless://8f7fe273-e06d-47d5-9deb-d7b3c95dc573@104.24.71.251:443?sni=hai.gdz.buzz&type=ws&host=hai.gdz.buzz&path=fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B853%20%7C%20%201.2MB/s%7C0%25%7CNetflix%7CDis...
 vless://7f56467b-597a-4549-b3a7-2288c47a1d86@104.16.213.133:2083?sni=myv2ray-4xs.pages.dev&type=ws&host=myv2ray-4xs.pages.dev&path=fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B854%20%7C%20%201.7MB/s%7C0%25%7CDisney%7COpen...
@@ -82,7 +83,6 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?allowInsecure=0
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.254:443&proxyIP=null#14%7CGB_speednode_0055
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.237:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.237:443&proxyIP=null#14%7CGB_speednode_0056
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.254:443#14%7CGB_speednode_0058
-trojan://bpb-trojan@us.madison.eu.org:443?allowInsecure=0&sni=skwygx.top&type=ws&host=skwygx.top&path=/tr#14%7CHK_speednode_0061
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=194.76.18.122:443#14%7CKZ_speednode_0063
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.129:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=194.76.18.129:443&proxyIP=null#14%7CKZ_speednode_0064
 vless://9af46703-64fa-4d42-b87b-656372e517ae@5.10.246.231:443?allowInsecure=1&sni=seen-israel-dining-sure.trycloudflare.com&type=ws&host=seen-israel-dining-sure.trycloudflare.com&path=/9af46703-64fa-4d42-b87b-656372e517ae-vless?ed=2048security=tls#14%7CNL_speednode_0065
@@ -96,12 +96,10 @@ vless://d1b29ae3-cea2-496f-b2a5-28753d4cdec2@104.16.239.207:443?allowInsecure=0&
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.184:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=192.0.54.184:443&proxyIP=null#14%7CUS_speednode_0119
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.184:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=192.0.54.184:443#14%7CUS_speednode_0120
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/security=tls#14%7CUS_speednode_0121
+vless://291c27a5-34d2-4081-83cc-2196cd208148@support.zoom.us:8080?allowInsecure=1&sni=xrr.rtxconfigz.xyz&type=ws&host=xrr.rtxconfigz.xyz&path=/#14%7CUS_speednode_0126
 vless://4484a8e0-8cd7-4db3-9098-99819d346dc3@104.25.253.197:8443?allowInsecure=1&sni=oracle-sg.777999.lol&type=ws&host=oracle-sg.777999.lol&path=/?ed=2560fp=chrome&security=tls#14%7CUS_speednode_0128
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.18:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.18:443&proxyIP=null#14%7CZA_speednode_0129
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.243:443#14%7CZA_speednode_0130
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.243:443&proxyIP=null#14%7CZA_speednode_0131
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.173:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.173:443&proxyIP=null#14%7CZA_speednode_0132
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.134:443&proxyIP=null#14%7CZA_speednode_0133
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505121278853-hDhUn5bpB5.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ```
-更新时间 2025-05-17 01:58:30
+更新时间 2025-05-17 02:02:25
