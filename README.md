@@ -196,4 +196,4 @@ vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?allowInsecure=0&sn
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.152.69:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/proxyip=ProxyIP.Oracle.cmliussss.netsecurity=tls#15%7CUS_speednode_0342
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.30:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#15%7CZA_speednode_0351
 ```
-更新时间 2025-05-18 02:36:30
+更新时间 2025-05-18 02:37:00
