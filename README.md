@@ -22,6 +22,7 @@
 免费高速节点
 
 ```
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.183:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B82%20%7C%20%202.0MB/s%7C0%25%7CDisney%7COpena...
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.193:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/ss.vs2024.us.kgsecurity=tls#3%7C%F0%9F%87%BA%F0%9F%87%B812%20%7C%20%202.2MB/s%7C0%25%7CDisney%7COpen...
 vless://64aced52-7611-42e5-8725-c6bb47f38555@wow.quicky.dpdns.org:443?sni=us.quicky.dpdns.org&type=ws&host=us.quicky.dpdns.org&path=/fastusfp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B814%20%7C%20%201.9MB/s%7COpenai
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.98:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram: @vpnAndroid2/?ed=2560#3%7C%F0%9F%87%BA%F0%9F%87%B819%20%7C%20%203.2MB/s%7C0%25%7CDisney
@@ -35,6 +36,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.34:80?type=ws&host=reedf
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?sni=wwwspeedtestnetwhiteberinsistomd6625996s08.gorgeserver1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s08.gorgeserver1.ir&path=fp=chrome&security=tls#3%7C%F0%9F%87%AB%F0%9F%87%B73%20%7C%20%203.2MB/s%7C36%25%7COpenai
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.95:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram: @vpnAndroid2/?ed=2560#3%7C%F0%9F%87%B3%F0%9F%87%B12%20%7C%20%205.3MB/s%7C0%25%7CDisney%7COpena...
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.218.154:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram: @vpnAndroid2/?ed=2560#3%7C%F0%9F%87%B0%F0%9F%87%B71%20%7C%20%205.0MB/s%7C61%25%7CDisney%7COpen...
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gorgeserver1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s09.gorgeserver1.ir&path=fp=chrome&security=tls#3%7C%F0%9F%87%AB%F0%9F%87%B76%20%7C%20%204.6MB/s%7C36%25%7COpenai
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?sni=wwwspeedtestnetwhiteberinsistomd6625996s21.afaghnegwork.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s21.afaghnegwork.ir&path=fp=chrome&security=tls#3%7C%F0%9F%87%AB%F0%9F%87%B78%20%7C%20%202.7MB/s%7C36%25%7COpenai
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.198:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram: @vpnAndroid2/?ed=2560#3%7C%F0%9F%87%B3%F0%9F%87%B13%20%7C%20%201.9MB/s%7C0%25%7CDisney%7COpena...
 vless://4ea841c1-0dc1-4563-9f47-deba8407cb4e@172.67.73.163:8080?type=ws&host=J9.oDOtZrHUoO.ZuLAIR.ORg.&path=/?ed=2048#3%7C%F0%9F%87%AB%F0%9F%87%B79%20%7C%20%204.8MB/s%7C15%25%7COpenai
@@ -52,6 +54,7 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.38:443?allowInsecure=1&
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.243:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=185.133.35.243:443#15%7CBR_speednode_0021
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.16.110.70:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#15%7CFR_speednode_0036
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.214:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CGB_speednode_0038
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.156:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CGB_speednode_0039
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.170:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CGB_speednode_0040
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.84:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CGB_speednode_0041
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.215:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CGB_speednode_0042
@@ -61,7 +64,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.205:8880?allowInsecure=0&
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.83:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CGB_speednode_0048
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.198:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CGB_speednode_0049
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.227:443&proxyIP=null#15%7CGB_speednode_0050
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.89:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.89:443#15%7CGB_speednode_0051
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.227:443#15%7CGB_speednode_0053
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.254:443&proxyIP=null#15%7CGB_speednode_0055
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.237:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.237:443&proxyIP=null#15%7CGB_speednode_0056
@@ -73,12 +75,14 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.5:443?allowInsecure=1&sn
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.5:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=45.67.215.5:443#15%7CRU_speednode_0076
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.106.20:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CUS_speednode_0085
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.129.166.20:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CUS_speednode_0086
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.135:80?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare+@WangCai2+/?ed=2560#15%7CUS_speednode_0088
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.18.2.26:2083?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/?ed=2560fp=chrome&security=tls#15%7CUS_speednode_0090
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@216.24.57.202:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#15%7CUS_speednode_0091
 vless://d1b29ae3-cea2-496f-b2a5-28753d4cdec2@104.16.239.207:443?allowInsecure=0&sni=cf.zhaoyin.wang&type=ws&host=cf.zhaoyin.wang&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0093
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.184:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=192.0.54.184:443&proxyIP=null#15%7CUS_speednode_0119
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.184:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=192.0.54.184:443#15%7CUS_speednode_0120
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/security=tls#15%7CUS_speednode_0121
+vless://291c27a5-34d2-4081-83cc-2196cd208148@support.zoom.us:8080?allowInsecure=1&sni=xrr.rtxconfigz.xyz&type=ws&host=xrr.rtxconfigz.xyz&path=/#15%7CUS_speednode_0126
 vless://4484a8e0-8cd7-4db3-9098-99819d346dc3@104.25.253.197:8443?allowInsecure=1&sni=oracle-sg.777999.lol&type=ws&host=oracle-sg.777999.lol&path=/?ed=2560fp=chrome&security=tls#15%7CUS_speednode_0128
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.18:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.18:443&proxyIP=null#15%7CZA_speednode_0129
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.243:443#15%7CZA_speednode_0130
@@ -86,4 +90,4 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?allowInsecure=
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.173:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.173:443&proxyIP=null#15%7CZA_speednode_0132
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.134:443&proxyIP=null#15%7CZA_speednode_0133
 ```
-更新时间 2025-05-17 22:28:30
+更新时间 2025-05-17 22:31:56
