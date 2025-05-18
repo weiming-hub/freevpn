@@ -169,4 +169,4 @@ vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:443?allowInsecure=0&s
 vless://64aced52-7611-42e5-8725-c6bb47f38555@wow.quicky.dpdns.org:443?allowInsecure=0&sni=us.quicky.dpdns.org&type=ws&host=us.quicky.dpdns.org&path=/fastussecurity=tls#15%7CUS_speednode_0346
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.30:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#15%7CZA_speednode_0351
 ```
-更新时间 2025-05-18 06:35:30
+更新时间 2025-05-18 06:36:00
