@@ -3019,4 +3019,4 @@ vless://303229c6-ede7-4955-9d1b-f1c2d6e33c23@151.101.46.133:80?security=none&typ
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.38:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-94.247.142.38:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.44.82:443?security=tls&sni=edcca.aimercc.filegear-sg.me&type=ws&host=edcca.aimercc.filegear-sg.me&path=%2Fflow%3D-udp443&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.82:443
 ```
-更新时间 2025-05-21 13:12:00
+更新时间 2025-05-21 13:12:30
