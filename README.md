@@ -3006,4 +3006,4 @@ vless://647c5c62-01e4-426e-90ac-b97e00d039b5@172.64.81.129:2083?security=tls&sni
 vless://47dc6952-92b4-44ad-aaa4-e9204ec2c320@37.202.237.114:23297?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-37.202.237.114:23297
 vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@162.159.57.94:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.57.94:443
 ```
-更新时间 2025-05-22 00:03:00
+更新时间 2025-05-22 00:03:30
