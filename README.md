@@ -124,4 +124,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@162.120.94.20:8880?allowInsecure=0&
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@216.24.57.20:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/Telegram@WangCai2#14%7CUS_speednode_0190
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@209.46.30.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CUS_speednode_0191
 ```
-更新时间 2025-05-28 05:21:30
+更新时间 2025-05-28 05:22:00
