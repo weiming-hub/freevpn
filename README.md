@@ -54,4 +54,4 @@ vless://4d91916f-a7fd-419b-8b90-640bb8d4b9f4@188.114.97.1:443?allowInsecure=0&sn
 vless://291c27a5-34d2-4081-83cc-2196cd208148@170.114.45.6:8080?allowInsecure=0&sni=xrr.rtxconfigz.xyz&type=ws&host=xrr.rtxconfigz.xyz&path=/#15%7CUS_speednode_0058
 vless://291c27a5-34d2-4081-83cc-2196cd208148@support.zoom.us:8080?allowInsecure=0&sni=xrr.rtxconfigz.xyz&type=ws&host=xrr.rtxconfigz.xyz&path=/#15%7CUS_speednode_0059
 ```
-更新时间 2025-05-29 15:35:00
+更新时间 2025-05-29 15:35:30
