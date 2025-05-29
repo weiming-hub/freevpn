@@ -203,4 +203,4 @@ vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.17.148.22:2052?allowInsecure=0&
 vless://291c27a5-34d2-4081-83cc-2196cd208148@170.114.45.6:8080?allowInsecure=0&sni=xrr.rtxconfigz.xyz&type=ws&host=xrr.rtxconfigz.xyz&path=/#14%7CUS_speednode_0474
 vless://291c27a5-34d2-4081-83cc-2196cd208148@support.zoom.us:8080?allowInsecure=0&sni=xrr.rtxconfigz.xyz&type=ws&host=xrr.rtxconfigz.xyz&path=/#14%7CUS_speednode_0476
 ```
-更新时间 2025-05-28 20:42:30
+更新时间 2025-05-28 20:43:00
