@@ -77,4 +77,4 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.115:443?allowInsecure=1&
 vless://291c27a5-34d2-4081-83cc-2196cd208148@170.114.45.6:8080?allowInsecure=0&sni=xrr.rtxconfigz.xyz&type=ws&host=xrr.rtxconfigz.xyz&path=/#15%7CUS_speednode_0119
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.148.22:443?allowInsecure=0&sni=hOZori.iR&alpn=http/1.1&type=ws&host=hOZori.iR&path=/RklUHeautH5uvnSB/NTQuMTY5LjIyOS4xODgfp=randomized&security=tls#15%7CUS_speednode_0123
 ```
-更新时间 2025-05-30 08:45:00
+更新时间 2025-05-30 08:45:30
