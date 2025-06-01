@@ -110,4 +110,4 @@ vless://2cec2733-389a-46a7-9053-218594a6336d@172.66.47.31:2096?allowInsecure=1&s
 vless://9f387ad9-043b-40b2-97c5-265d30cbfbf1@172.66.47.100:443?allowInsecure=0&sni=besTiIvPn-6t8.PAGes.DEV&alpn=h2%2Chttp/1.1&type=ws&host=besTiIvPn-6t8.PAGes.DEV&path=/FmuwAIEMEYaRjcUE?ed=2560fp=randomized&security=tls#14%7CUS_speednode_0211
 vless://6bc29783-3ff6-4379-8650-611a7095307b@104.18.22.235:443?allowInsecure=0&sni=nl1n.yfjc.sbs&type=ws&host=nl1n.yfjc.sbs&path=/yfjc/knl1fp=ios&security=tls#14%7CUS_speednode_0225
 ```
-Update time 2025-06-01 16:44:30
+Update time 2025-06-01 16:45:00
