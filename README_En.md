@@ -1,27 +1,25 @@
 # freevpn
 
-* [English](https://github.com/asdsadsddas123/freevpn/README_En.md)
+Free scientific internet access、Scientific Internet Access  Over the Wall、Free VPN、One-click browser、VPS、VPN、Little Rocket、youtube、Efficient Node、software、free shadowsocks/ss/ssr/v2ray/hy2/trojan/vmess/vless/hysteria2/reality node，Free Internet Access、fanqiang、Ladder，computer、cell phone、ios、Android、windows、Mac、Linux、Router over the firewall、One-click import、Free forever、Free fast and stable node、Support Netflix、chatgpt、youtube、Facebook、instagram、WhatsApp、Telegram、tg、Twitte、Sing-box。
 
-免费科学上网、科学上网-翻墙、免费翻墙、一键翻墙浏览器、VPS、VPN、小火煎、油管、高效节点、软件、免费shadowsocks/ss/ssr/v2ray/hy2/trojan/vmess/vless/hysteria2/reality节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、一键导入、永久免费、免费快速稳定节点、支持奈飞、chatgpt、youtube、油管、Facebook、脸书、instagram、WhatsApp、Telegram、纸飞机、tg、推特、Twitte、Sing-box。
+### Pay VPN
+* [Quickly climb over the wall](https://uhuio.top/) 
 
-### 付费VPN
-* [快速翻墙](https://uhuio.top/) 
+* [Click to enter the airport](https://uhuio.top/) 
 
-* [点击进入机场](https://uhuio.top/) 
+* [Free Rocket Account](https://free-clash.top/) 
 
-* [免费小火煎账号](https://free-clash.top/) 
+* Ultra-fast access: direct access to global content without any lag。
 
-* 极速访问：直达全球内容，无任何卡顿。
+* Full platform support: Whether it is a mobile phone or a computer, it can be easily connected。
 
-* 全平台支持：无论手机还是电脑都能轻松连接。
+* Travel around the world: Provide a variety of server options to ensure the best network experience。
 
-* 全世界畅游：提供多种服务器选择，确保最佳网络体验。
+* 24/7 Customer Service: Please feel free to contact us with any questions, we have someone to answer your questions。
 
-* 24/7 客服：任何问题随时联系我们，我们有专人解答。
+## <font color="red">In order to avoid losing connection after the node is updated, it is recommended that you provide us with a free Star to ensure smooth subsequent contact. To prevent malicious use and affect everyone's use. The public node is just an entrance and needs to be replaced every day. In addition, some free nodes are unavailable. It is recommended to use a paid VPN。</font>
 
-## <font color="red">为了避免节点更新后失联，建议您为我们提供一个免费的 Star，以确保后续能顺利联系。为防止恶意使用，影响大家使用。公共节点，只是作为一个入口，需要每天更换，而且免费节点有些不可用，推荐使用付费VPN。</font>
-
-免费节点
+free node
 
 ```
 trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.204.120:443?type=ws&sni=ddcDe.890603.XYz&path=/COp52Dbu3dvwvDWUxOqxq&host=ddcde.890603.xyz#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_1
@@ -89,4 +87,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.227:80?allowInsecure=0&
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@155.46.213.20:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#15%7CUS_speednode_0132
 vless://291c27a5-34d2-4081-83cc-2196cd208148@170.114.45.6:8080?allowInsecure=0&sni=xrr.rtxconfigz.xyz&type=ws&host=xrr.rtxconfigz.xyz&path=/#15%7CUS_speednode_0138
 ```
-更新时间 2025-06-01 05:51:00
+update time 2025-06-01 05:51:00
