@@ -92,4 +92,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.165.216.20:8880?allowInsecure=1
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.216.20:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CUS_speednode_0088
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@167.68.42.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CUS_speednode_0097
 ```
-更新时间 2025-06-02 15:28:30
+更新时间 2025-06-02 15:29:00
