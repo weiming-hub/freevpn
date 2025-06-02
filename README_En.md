@@ -113,4 +113,4 @@ vless://9f387ad9-043b-40b2-97c5-265d30cbfbf1@172.66.47.100:443?allowInsecure=0&s
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?allowInsecure=0&sni=cr777.rayan.dpdns.org&type=ws&host=cr777.rayan.dpdns.org&path=/fp=chrome&security=tls#14%7CUS_speednode_0221
 vless://6bc29783-3ff6-4379-8650-611a7095307b@104.18.22.235:443?allowInsecure=0&sni=nl1n.yfjc.sbs&type=ws&host=nl1n.yfjc.sbs&path=/yfjc/knl1fp=ios&security=tls#14%7CUS_speednode_0225
 ```
-Update time 2025-06-02 06:42:30
+Update time 2025-06-02 06:43:00
