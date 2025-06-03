@@ -26,4 +26,4 @@
 ```
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.214:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CRU_speednode_0059
 ```
-更新时间 2025-06-02 23:20:30
+更新时间 2025-06-02 23:21:00
