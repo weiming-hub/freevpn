@@ -24,6 +24,6 @@
 免费节点
 
 ```
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.214:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CRU_speednode_0059
+vless://2f3e929e-fe8c-44d5-b96b-6ec0e4b5e569@104.17.148.22:2082?allowInsecure=1&sni=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#2%7C%F0%9F%87%A9%F0%9F%87%AA3%20%7C%20%202.6MB/s%7C20%25%7COpenai
 ```
-更新时间 2025-06-02 23:57:00
+更新时间 2025-06-03 00:01:06
