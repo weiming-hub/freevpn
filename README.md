@@ -152,4 +152,4 @@ vless://75ecef77-2050-4250-99f7-936d0188edf2@151.101.2.133:80?allowInsecure=1&sn
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?allowInsecure=0&sni=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v11.pronetwork11.com&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v11.pronetwork11.com&path=/?ed=2048#15%7CUS_speednode_0085
 vless://bfab9a68-5545-5270-bfdd-c9a5476ca066@66.59.197.110:33001?allowInsecure=0&sni=vm.zran.top&fp=chrome&security=tls#15%7CUS_speednode_0087
 ```
-更新时间 2025-06-03 14:32:30
+更新时间 2025-06-03 14:33:00
