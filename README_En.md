@@ -66,7 +66,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiM3zwn4ep8J+HqjUgfCAgMS40TUIvc3wwJXxZb3V0dWJlfE9w
 vmess://eyJ2IjogIjIiLCAicHMiOiAiM3zwn4et8J+HsDEgfCAgMS44TUIvc3wxNSV8RGlzbmV5fFlvdXQuLi4iLCAiYWRkIjogImJjODQyYjQ5LXN3ZXhzMC10MXJ0NWUtMXMwOXguaGdjMS50Y3BiYnIubmV0IiwgInBvcnQiOiA4MDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI2MmI3ODI0ZS00N2RjLTExZWYtOWYyZC1mMjNjOTE2NGNhNWQiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8ifQ==
 vless://895552fa-6284-4c1d-ba00-3944e0c7c626@172.67.153.179:443?sni=5eR.WWW890604.dPDNS.OrG&alpn=http/1.1&type=ws&host=5er.www890604.dpdns.org&path=/C1SukvGdr58yeduy9AOGfp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B873%20%7C%20%201.9MB/s%7C50%25%7COpenai%7CGem...
 vless://585acd30-52bf-4b70-a537-e13649fafefc@104.21.53.113:443?sni=bBA.890601.pP.UA&alpn=http/1.1&type=ws&host=bba.890601.pp.ua&path=/rU9rSjDSOd4yY2fOefp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B879%20%7C%20%201.7MB/s%7C30%25%7COpenai
-vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?type=ws&path=/6603a779fp=chrome#3%7C%F0%9F%87%AE%F0%9F%87%B71%20%7C%20%201.3MB/s%7C0%25%7COpenai
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560fp=chrome#3%7C%F0%9F%87%AE%F0%9F%87%B31%20%7C%20%201.7MB/s%7C61%25%7CDisney%7COpen...
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.76:8880?type=ws&host=yd.laoyoutiao.link&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560fp=chrome#3%7C%F0%9F%87%BA%F0%9F%87%B8111%20%7C%20%201.0MB/s%7C61%25%7CDisney
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.106:8880?type=ws&host=yd.laoyoutiao.link&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560fp=chrome#3%7C%F0%9F%87%BA%F0%9F%87%B8123%20%7C%20%201.3MB/s%7C61%25%7CDisney%7COp...
@@ -433,4 +432,4 @@ vless://b28545ee-8965-4321-fee1-95964a8ab7ec@151.101.64.155:80?allowInsecure=0&s
 vless://41ec8f30-6cd7-4703-94e1-95913c1626fa@NUFiLTER.fastly80-2.hosting-ip.com:80?allowInsecure=0&sni=arayeshgaham.com&type=ws&host=arayeshgaham.com&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80#15%7CUS_speednode_0435
 vless://9a3afeb6-8105-4a3d-b7cd-8d484edec28a@151.101.130.133:80?allowInsecure=0&sni=Lightning.ir&type=ws&host=Lightning.ir&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#15%7CUS_speednode_0437
 ```
-Update time 2025-06-05 15:35:00
+Update time 2025-06-05 15:38:17
