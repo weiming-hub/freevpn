@@ -90,4 +90,4 @@ vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@91.193.58.247:8880?allowInsecure=0&
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?allowInsecure=1&sni=hello.96xckkzx.workers.dev&type=ws&host=hello.96xckkzx.workers.dev&path=/?ed=2048#14%7CNL_speednode_0009
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@43.99.251.175:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#14%7CSG_speednode_0014
 ```
-Update time 2025-06-07 08:34:00
+Update time 2025-06-07 08:34:30
