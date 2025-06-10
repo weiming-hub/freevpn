@@ -105,4 +105,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@69.84.182.29:8880?allowInsecure=0&s
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.190:80?allowInsecure=0&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/#15%7CUS_speednode_0045
 vless://8c9a892c-e9d5-4fff-bfdb-8ef9c50272b1@162.251.82.187:80?allowInsecure=0&sni=my-mail-management-pr0-git-land-manager.clients-github.com&type=ws&host=my-mail-management-pr0-git-land-manager.clients-github.com&path=/58834/mail-template#15%7CUS_speednode_0049
 ```
-Update time 2025-06-10 01:23:30
+Update time 2025-06-10 01:24:00
