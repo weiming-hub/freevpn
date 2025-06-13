@@ -119,4 +119,4 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.76.236:34045?allowInsecure=1
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.81.86.9:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#15%7CVN_speednode_0146
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.78:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#15%7CVN_speednode_0147
 ```
-Update time 2025-06-13 14:46:00
+Update time 2025-06-13 14:46:30
