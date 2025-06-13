@@ -81,4 +81,4 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@217.179.91.142:34045?allowInsecure=
 vless://0783b1b9-5d8b-4d03-adc3-b050acc71a29@168.138.181.208:443?allowInsecure=1&sni=sgp.rtot.me&type=ws&host=sgp.rtot.me&path=/bingfp=chrome&security=tls#15%7CSG_speednode_0008
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.81.86.9:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#15%7CVN_speednode_0029
 ```
-Update time 2025-06-13 07:32:30
+Update time 2025-06-13 07:33:00
