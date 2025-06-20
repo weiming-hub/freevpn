@@ -290,4 +290,4 @@ vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@102.177.189.247:8880?allowInsecure=
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@102.132.188.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CZA_speednode_0254
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@102.177.176.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CZA_speednode_0255
 ```
-Update time 2025-06-20 14:23:00
+Update time 2025-06-20 14:23:20
