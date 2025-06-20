@@ -62,7 +62,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.106:8880?type=ws&host=yd
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560fp=chrome#2%7C%F0%9F%87%B0%F0%9F%87%B73%20%7C%20%201.3MB/s%7C61%25%7CDisney%7COpen...
 vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?sni=yfnl1.xn--4gq62f52gppi29k.com&flow=xtls-rprx-vision-udp443-udp443&fp=safari&security=tls#2%7C%F0%9F%87%A9%F0%9F%87%AA6%20%7C%20%204.3MB/s%7C0%25%7CDisney%7COpena...
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&alpn=h3h2&type=ws&host=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&path=/fp=chrome&security=tls#2%7C%F0%9F%8C%806-CY%20%7C%20%204.9MB/s%7C44%25%7COpenai
-hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#9%2C11%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7%20%231
+hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#11%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@18.183.222.24:443#12%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNDUwY2VjZmI5M2Y=@kh36v1.pmxiaonan.xyz:14150#12%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206MjY0NzI3MzE3ZWY2@kr9v1.3ci.xyz:34808#12%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
@@ -285,4 +285,4 @@ vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@102.177.189.247:8880?allowInsecure=
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@102.132.188.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CZA_speednode_0254
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@102.177.176.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CZA_speednode_0255
 ```
-更新时间 2025-06-20 16:30:00
+更新时间 2025-06-20 16:31:58
