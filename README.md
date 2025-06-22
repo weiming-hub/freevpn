@@ -30,9 +30,12 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:15098#%F0%9F%87%B0%F0%9F%87%
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD_3
 vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?security=none&type=ws&host=ov-canada1.09vpn.com&encryption=none&type=ws&path=%2Fvless%2F&sni=ov-canada1.09vpn.com&headerType=none#%F0%9F%87%AE%F0%9F%87%B3_IN_%E5%8D%B0%E5%BA%A6-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6-%3E%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@3.38.169.123:9898#end-gfw.com@kr64
-trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@3.38.169.123:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
-vmess://eyJ2IjoiMiIsInBzIjoiZW5kLWdmdy5jb20iLCJhZGQiOiIzLjM4LjE2OS4xMjMiLCJwb3J0Ijo2ODY4LCJpZCI6IjFhMTdiMTlkLTQ4OTYtNDUzMS1hZjc5LTZlOTFkOGVmODIyOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImVuZC1nZncuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiJiYWlkdS5jb20iLCJhbGxvd0luc2VjdXJlIjoxfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@54.168.59.210:9898#end-gfw.com@jp89
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@3.39.235.81:9898#end-gfw.com@kr64
+trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@54.168.59.210:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
+trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@3.39.235.81:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
+vmess://eyJ2IjoiMiIsInBzIjoiZW5kLWdmdy5jb20iLCJhZGQiOiI1NC4xNjguNTkuMjEwIiwicG9ydCI6Njg2OCwiaWQiOiIxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJlbmQtZ2Z3LmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiYmFpZHUuY29tIiwiYWxsb3dJbnNlY3VyZSI6MX0=
+vmess://eyJ2IjoiMiIsInBzIjoiZW5kLWdmdy5jb20iLCJhZGQiOiIzLjM5LjIzNS44MSIsInBvcnQiOjY4NjgsImlkIjoiMWExN2IxOWQtNDg5Ni00NTMxLWFmNzktNmU5MWQ4ZWY4MjI4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZW5kLWdmdy5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6ImJhaWR1LmNvbSIsImFsbG93SW5zZWN1cmUiOjF9
 vless://9e85b4eb-f53d-457e-9385-454db3c1dcc1@104.17.148.22:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#%F0%9F%87%A9%F0%9F%87%AA1%20%7C%20%201.5MB/s%7C0%25%7COpenai
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@5.104.75.130:8443?sni=CiR346yL3b.DeRaKhT.iNfO&type=ws&host=CiR346yL3b.DeRaKhT.iNfO&path=fp=chrome&security=tls#%F0%9F%8C%801-MD%20%7C%20%201.8MB/s%7C44%25%7CYoutube%7CO...
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?sni=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&path=fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B73%20%7C%20%204.1MB/s%7C36%25%7COpenai
@@ -65,12 +68,13 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?type=ws&host=ree
 vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?sni=yfnl1.xn--4gq62f52gppi29k.com&flow=xtls-rprx-vision-udp443-udp443&fp=safari&security=tls#%F0%9F%87%A9%F0%9F%87%AA6%20%7C%20%204.3MB/s%7C0%25%7CDisney%7COpena...
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&alpn=h3h2&type=ws&host=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&path=/fp=chrome&security=tls#%F0%9F%8C%806-CY%20%7C%20%204.9MB/s%7C44%25%7COpenai
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw==@13.125.235.34:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian
+ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw==@43.203.242.204:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODI5M2IyMDQ3MDc=@156.251.179.238:58697#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0My4yNDcuMTM1LjE3MCIsICJwb3J0IjogNDYyMTAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJkMWVjYTcwNi0xYWFlLTQyZDMtYmFiMC02OTk5NWQ3YjAyM2QifQ==
 ss://YWVzLTI1Ni1nY206ZHd6MUd0Rjc=@111.45.33.5:30017#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206ZHd6MUd0Rjc=@120.233.128.98:30015#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206OWFjZmY4MDdjM2Nj@163.61.206.64:443#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAi5paw5Yqg5Z2hMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxNzIuNjQuMjI5LjUiLCAicG9ydCI6ICI4MDgwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNjk3MzQzYmMtOWM5MS00N2JiLWEyNzctMTgxZWE3NTg2MzEzIiwgInNuaSI6ICIiLCAiaG9zdCI6ICJ4anAueWlsZXguaWN1IiwgInBhdGgiOiAiLyJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAi576O5Zu9M3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJkZGRkZERERERENC4yMjI1NjAueHlaIiwgInBvcnQiOiAiODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIzOTNiMTA2MS1kNjE1LTQ1OWEtODYxNi0zZjk0NDdiZGZmNWEiLCAic25pIjogIiIsICJob3N0IjogImRkZGRkZGRkZGQ0LjIyMjU2MC54eXoiLCAicGF0aCI6ICIvaVhmaTBtTW1QWXA5VUE2WTM0eldVazZKVVEifQ==
+ss://YWVzLTI1Ni1nY206MjY0NzI3MzE3ZWY2@121.0.97.29:45154#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+trojan://6757b7d6-fa32-4708-b5d1-30e3cf928b51@104.21.6.179:443?allowInsecure=0&sni=ZZzzzZZ.890601.XYZ&type=ws&host=ZZzzzZZ.890601.XYZ&path=/l96MZ8se5Kl2p8BiMhP42l#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@103.245.228.251:8880?allowInsecure=1&sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#AE_speednode_0001
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@94.140.0.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#AE_speednode_0002
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@188.164.158.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#AM_speednode_0003
@@ -148,6 +152,7 @@ vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@5.182.85.251:8880?allowInsecure=0&s
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.148.107.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#RU_speednode_0083
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@45.142.255.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#RU_speednode_0084
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@77.232.140.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#RU_speednode_0085
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@213.241.198.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#RU_speednode_0086
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.176.24.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#RU_speednode_0087
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.59.218.251:8880?allowInsecure=1&sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#RU_speednode_0088
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@91.209.253.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#SA_speednode_0089
@@ -194,10 +199,11 @@ vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@135.84.74.251:8880?allowInsecure=1&
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@104.129.164.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0135
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@195.13.44.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0136
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@108.165.216.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0137
+vless://4dad6029-a008-4d3d-a98d-80fa9d997f37@amirpanel1.ckoutddhlursfjojxjw.com:36571?allowInsecure=0&sni=speedtest.net#US_speednode_0138
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@141.193.27.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0140
 vless://00a03bb1-91d7-4fa4-a623-0cdad5a87cf8@69.84.182.18:443?allowInsecure=0&sni=usa2.xn--ghqu5fm27b67w.com&type=ws&host=usa2.xn--ghqu5fm27b67w.com&path=/pq/us2fp=chrome&security=tls#US_speednode_0142
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.78:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#VN_speednode_0143
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@59.153.217.57:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#VN_speednode_0144
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@102.132.188.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ZA_speednode_0145
 ```
-更新时间 2025-06-21 22:30:00
+更新时间 2025-06-21 22:31:44
