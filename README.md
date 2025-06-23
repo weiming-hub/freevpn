@@ -29,8 +29,12 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.165.233.93:989#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.213.23.226:989#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9-%3E%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#%F0%9F%87%AE%F0%9F%87%B8_IS_%E5%86%B0%E5%B2%9B
+vless://adeee029-e9b5-4312-8d00-71be8d86a7d3@37.32.41.184:1010?security=none&type=tcp&encryption=none&headerType=none#%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97-%3E%F0%9F%87%A8%F0%9F%87%AD_CH_%E7%91%9E%E5%A3%AB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFczSUt6aW1nYmFCYTBqRUx2UDdS@62.133.60.217:34218#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@13.158.135.24:9898#end-gfw.com@jp89
+trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@13.158.135.24:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
+vmess://eyJ2IjoiMiIsInBzIjoiZW5kLWdmdy5jb20iLCJhZGQiOiIxMy4xNTguMTM1LjI0IiwicG9ydCI6Njg2OCwiaWQiOiIxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJlbmQtZ2Z3LmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiYmFpZHUuY29tIiwiYWxsb3dJbnNlY3VyZSI6MX0=
 vless://9e85b4eb-f53d-457e-9385-454db3c1dcc1@104.17.148.22:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#%F0%9F%87%A9%F0%9F%87%AA1%20%7C%20%201.5MB/s%7C0%25%7COpenai
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@5.104.75.130:8443?sni=CiR346yL3b.DeRaKhT.iNfO&type=ws&host=CiR346yL3b.DeRaKhT.iNfO&path=fp=chrome&security=tls#%F0%9F%8C%801-MD%20%7C%20%201.8MB/s%7C44%25%7CYoutube%7CO...
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?sni=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&path=fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B73%20%7C%20%204.1MB/s%7C36%25%7COpenai
@@ -65,8 +69,6 @@ vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?sni=yfnl1.xn--4gq
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&alpn=h3h2&type=ws&host=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&path=/fp=chrome&security=tls#%F0%9F%8C%806-CY%20%7C%20%204.9MB/s%7C44%25%7COpenai
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&sni=www.bing.com#%40Selinc
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@43.207.110.197:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODI5M2IyMDQ3MDc=@156.251.179.238:48159#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0My4yNDcuMTM1LjE3MCIsICJwb3J0IjogNDYyMTAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJkMWVjYTcwNi0xYWFlLTQyZDMtYmFiMC02OTk5NWQ3YjAyM2QifQ==
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.98:64759#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206NWZjYmU3NmRmNDJl@jplistv1-2.dsjsapi.com:443#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
@@ -283,4 +285,4 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@102.177.176.251:8880?allowInsecure=
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@102.132.188.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ZA_speednode_0228
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@102.177.189.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ZA_speednode_0229
 ```
-更新时间 2025-06-23 05:00:00
+更新时间 2025-06-23 05:01:52
