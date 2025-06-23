@@ -282,4 +282,4 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@102.177.176.251:8880?allowInsecure=
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@102.132.188.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ZA_speednode_0228
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@102.177.189.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ZA_speednode_0229
 ```
-Update time 2025-06-23 00:13:40
+Update time 2025-06-23 00:14:00
