@@ -184,4 +184,4 @@ vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@170.114.45.3:8880?allowInsecure=0&s
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@195.13.55.3:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0151
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@102.177.189.3:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ZA_speednode_0157
 ```
-更新时间 2025-06-27 07:35:20
+更新时间 2025-06-27 07:35:40
