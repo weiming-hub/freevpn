@@ -91,4 +91,4 @@ vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.177.156:16924?allowInsecure=0
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.177.156:23835?allowInsecure=0&sni=cloud.ir#US_speednode_0252
 trojan://c7f423b7-ced8-43da-a9ae-e906cb4a222c@172.67.191.140:443?allowInsecure=0&sni=DdDdddDDdF.999824.Xyz&type=ws&host=DdDdddDDdF.999824.Xyz&path=/dwPcFaK3QxWRQTqot0LE#US_speednode_0253
 ```
-Update time 2025-06-28 04:53:40
+Update time 2025-06-28 04:54:00
