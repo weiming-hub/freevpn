@@ -79,4 +79,4 @@ vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@209.94.90.13:8880?allowInsecure=0&s
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@144.202.114.28:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#US_speednode_0247
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.177.156:16924?allowInsecure=0&sni=cloud.ir#US_speednode_0251
 ```
-Update time 2025-06-28 10:25:40
+Update time 2025-06-28 10:26:00
